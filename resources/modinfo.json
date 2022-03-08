@@ -1,0 +1,14 @@
+{
+    "type": "code",
+    "modid": "cook",
+    "name": "Cook",
+    "side": "universal",
+    "authors": [
+        "G3rste"
+    ],
+    "description": "Proof of Concept: Mod that implements the cook as a new class.",
+    "version": "1.0.0",
+    "dependencies": {
+        "game": "1.16.4"
+    }
+}

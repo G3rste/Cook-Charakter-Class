@@ -1,0 +1,31 @@
+[
+    {
+        "op": "add",
+        "path": "/-",
+        "value": {
+            "code": "gourmet",
+            "type": "positive",
+            "attributes": {
+                "cookingTime": -0.8
+            }
+        },
+        "file": "config/traits.json"
+    },
+    {
+        "op": "add",
+        "path": "/-",
+        "value": 
+        {
+            "code": "cook",
+            "traits": ["gourmet"],
+            "gear": [
+                { "type": "item", "code": "clothes-upperbody-commoner-shirt" },
+                { "type": "item", "code": "clothes-upperbodyover-commoner-coat" },
+                { "type": "item", "code": "clothes-lowerbody-commoner-trousers" },
+                { "type": "item", "code": "clothes-foot-commoner-boots" },
+                { "type": "item", "code": "clothes-hand-commoner-gloves" }
+            ]
+        },
+        "file": "config/characterclasses.json"
+    }
+]

@@ -1,0 +1,8 @@
+[
+    {
+        "op": "replace",
+        "path": "/entityClass",
+        "value": "CookFirepit",
+        "file": "blocktypes/wood/firepit.json"
+    }
+]
